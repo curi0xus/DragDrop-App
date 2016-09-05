@@ -4,8 +4,8 @@ This is a simple ToDO app built using React, Alt & React DnD with HTML5 Backend
 
 # Getting Started
 
-Clone a copy of the app on your computer
+1) Navigate to root folder of the app and do an 'npm install' in your terminal
 
-To start the local server, run npm start in your terminal in the root folder of the application
+2) To start the local server, navigate to the root folder of the app and run npm start in your terminal
 
-Open a brower and hit http://localhost:8085/
+3) After the server is deployed, you can then open a browser and hit http://localhost:8085/
